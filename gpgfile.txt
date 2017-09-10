@@ -13,4 +13,3 @@
      # Do a commit here, so that we can later print "done" :-)
      %commit
      %echo done
-EOF
